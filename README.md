@@ -1,3 +1,5 @@
-## Hi there 👋
+## Hi there, 
+## I am Hashim Khan, an aspiring Full Stack Developer
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,spring, react, nodejs&perline=3)](https://skillicons.dev)
