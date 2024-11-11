@@ -1,5 +1,5 @@
-## Hi there, 
-I am Hashim Khan, an aspiring Full Stack Developer
+##  I am Hashim Khan, an aspiring Full Stack Developer.
+
 
 ## Languages and Tools
 
